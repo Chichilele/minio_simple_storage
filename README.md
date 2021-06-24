@@ -1,0 +1,3 @@
+# MinIO
+
+MinIO server deployment
