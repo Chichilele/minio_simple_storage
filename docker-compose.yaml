@@ -76,7 +76,7 @@ services:
       timeout: 20s
       retries: 3
 
-  nginx:
+  minio:
     image: nginx:1.19.2-alpine
     hostname: nginx
     volumes:
