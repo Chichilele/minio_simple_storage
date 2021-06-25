@@ -92,7 +92,6 @@ services:
     networks:
        - mlops
        - private
-    #  - public
 
 ## By default this config uses default local driver,
 ## For custom volumes replace with volume driver configuration.
